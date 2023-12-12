@@ -1,2 +1,2 @@
-# Blibliotecas_Python
+# Blibliotecas Python
 Como instalar bibliotecas no Python?
